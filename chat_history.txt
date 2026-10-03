@@ -1,0 +1,12 @@
+[2026-10-03 06:21:17] User: Ma Jawad
+[2026-10-03 06:21:17] Bot: Maaf kijiye ga, main aapki yeh baat samajh nahi saka. Aap 'help' type karke dekh sakte hain ke main kya Jawab de sakta hoon.
+
+[2026-10-03 06:21:54] User: Ma bot banana chahta hoon
+[2026-10-03 06:21:54] Bot: Maaf kijiye ga, main aapki yeh baat samajh nahi saka. Aap 'help' type karke dekh sakte hain ke main kya Jawab de sakta hoon.
+
+[2026-10-03 06:22:03] User: help
+[2026-10-03 06:22:03] Bot: Main aapko greetings, small talk aur AI/Syntecxhub se mutaliq sawalon ke jawab dene mein madad kar sakta hoon.
+
+[2026-10-03 06:22:16] User: ok
+[2026-10-03 06:22:16] Bot: Maaf kijiye ga, main aapki yeh baat samajh nahi saka. Aap 'help' type karke dekh sakte hain ke main kya Jawab de sakta hoon.
+
